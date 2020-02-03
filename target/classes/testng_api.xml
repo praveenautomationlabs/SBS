@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SBS Test Automation Test Suite">
+	<test name="SBS Test Cases">
+		<classes>
+			<class name="com.sbs.qa.stepImplementation.API"></class>
+		</classes>
+	</test>
+</suite>
